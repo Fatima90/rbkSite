@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/RBKProjects/rbkSite.png?label=ready&title=Ready)](https://waffle.io/RBKProjects/rbkSite)
 # RbkSite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
